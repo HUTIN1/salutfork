@@ -8,7 +8,9 @@ from slicer.util import VTKObservationMixin
 import webbrowser
 
 # import csv
-
+##################################################
+################ SALUT LES BG ####################
+##################################################
 
 #region ========== FUNCTIONS ==========
 
